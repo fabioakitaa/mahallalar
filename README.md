@@ -1,4 +1,4 @@
-# Mahallalar
+# Mahallalar / Do not contact contributor / just use as you can
 
 O'zbekiston mahallalari geo-poligon ma'lumotlari (Deyarli hammasi) 
 
